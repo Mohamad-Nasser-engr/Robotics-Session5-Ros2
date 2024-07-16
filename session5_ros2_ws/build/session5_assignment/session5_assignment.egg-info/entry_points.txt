@@ -1,4 +1,5 @@
 [console_scripts]
+alert_publisher = session5_assignment.Alert_publisher:main
 temperature_publisher = session5_assignment.Temperature_publisher:main
 threshold_subscriber = session5_assignment.Threshold_subscriber:main
 

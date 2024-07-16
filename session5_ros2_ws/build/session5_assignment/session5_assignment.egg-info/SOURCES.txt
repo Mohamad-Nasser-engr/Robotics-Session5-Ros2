@@ -9,6 +9,7 @@ setup.py
 ../../build/session5_assignment/session5_assignment.egg-info/top_level.txt
 ../../build/session5_assignment/session5_assignment.egg-info/zip-safe
 resource/session5_assignment
+session5_assignment/Alert_publisher.py
 session5_assignment/Temperature_publisher.py
 session5_assignment/Threshold_subscriber.py
 session5_assignment/__init__.py

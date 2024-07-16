@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'temperature_publisher = session5_assignment.Temperature_publisher:main',
-            'threshold_subscriber = session5_assignment.Threshold_subscriber:main'
+            'threshold_subscriber = session5_assignment.Threshold_subscriber:main',
+            'alert_publisher = session5_assignment.Alert_publisher:main'
         ],
     },
 )
