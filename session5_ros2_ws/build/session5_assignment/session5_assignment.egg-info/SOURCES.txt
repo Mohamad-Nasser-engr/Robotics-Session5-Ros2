@@ -10,6 +10,7 @@ setup.py
 ../../build/session5_assignment/session5_assignment.egg-info/zip-safe
 resource/session5_assignment
 session5_assignment/Temperature_publisher.py
+session5_assignment/Threshold_subscriber.py
 session5_assignment/__init__.py
 test/test_copyright.py
 test/test_flake8.py

@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'temperature_publisher = session5_assignment.Temperature_publisher:main'
+            'temperature_publisher = session5_assignment.Temperature_publisher:main',
+            'threshold_subscriber = session5_assignment.Threshold_subscriber:main'
         ],
     },
 )
