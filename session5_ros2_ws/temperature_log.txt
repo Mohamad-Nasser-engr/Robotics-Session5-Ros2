@@ -38,3 +38,14 @@ Temperature: 25.36 °C
 Temperature: -15.86 °C
 Temperature: 30.13 °C
 Temperature: 38.57 °C
+Temperature: -13.74 °C
+Temperature: 19.15 °C
+Temperature: -8.82 °C
+Temperature: 58.15 °C
+Temperature: 37.72 °C
+Temperature: 67.89 °C
+Temperature: 6.79 °C
+Temperature: 41.54 °C
+Temperature: -14.31 °C
+Temperature: 31.69 °C
+Temperature: -1.42 °C

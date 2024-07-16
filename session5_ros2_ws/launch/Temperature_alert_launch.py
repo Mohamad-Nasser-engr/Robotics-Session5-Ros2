@@ -10,18 +10,20 @@ def generate_launch_description():
             package='session5_assignment',
             executable='temperature_publisher',
             name='temperature_publisher',
-            output='screen'
         ),
         Node(
             package='session5_assignment',
             executable='threshold_subscriber',
             name='threshold_subscriber',
-            output='screen'
         ),
         Node(
             package='session5_assignment',
             executable='alert_publisher',
             name='alert_publisher',
-            output='screen'
+        ),
+        Node(
+            package='session5_assignment',
+            executable='temperature_logger',
+            name='temperature_logger',
         ),
     ])
