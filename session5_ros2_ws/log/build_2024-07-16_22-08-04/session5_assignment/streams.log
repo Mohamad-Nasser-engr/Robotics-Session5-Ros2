@@ -1,0 +1,24 @@
+[1.002s] Invoking command in '/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/src/session5_assignment': PYTHONPATH=/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/prefix_override:/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/session5_assignment build --build-base /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build install --record /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/install.log --single-version-externally-managed install_data
+[1.285s] running egg_info
+[1.287s] writing ../../build/session5_assignment/session5_assignment.egg-info/PKG-INFO
+[1.288s] writing dependency_links to ../../build/session5_assignment/session5_assignment.egg-info/dependency_links.txt
+[1.288s] writing entry points to ../../build/session5_assignment/session5_assignment.egg-info/entry_points.txt
+[1.289s] writing requirements to ../../build/session5_assignment/session5_assignment.egg-info/requires.txt
+[1.289s] writing top-level names to ../../build/session5_assignment/session5_assignment.egg-info/top_level.txt
+[1.291s] reading manifest file '../../build/session5_assignment/session5_assignment.egg-info/SOURCES.txt'
+[1.292s] writing manifest file '../../build/session5_assignment/session5_assignment.egg-info/SOURCES.txt'
+[1.292s] running build
+[1.292s] running build_py
+[1.292s] copying session5_assignment/Temperature_publisher.py -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib/session5_assignment
+[1.292s] running install
+[1.293s] running install_lib
+[1.293s] copying /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib/session5_assignment/Temperature_publisher.py -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment
+[1.294s] byte-compiling /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment/Temperature_publisher.py to Temperature_publisher.cpython-310.pyc
+[1.294s] running install_data
+[1.295s] running install_egg_info
+[1.296s] removing '/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment-0.0.0-py3.10.egg-info' (and everything under it)
+[1.297s] Copying ../../build/session5_assignment/session5_assignment.egg-info to /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment-0.0.0-py3.10.egg-info
+[1.298s] running install_scripts
+[1.317s] Installing temperature_publisher script to /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/session5_assignment
+[1.402s] writing list of installed files to '/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/install.log'
+[1.424s] Invoked command in '/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/src/session5_assignment' returned '0': PYTHONPATH=/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/prefix_override:/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/session5_assignment build --build-base /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build install --record /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/install.log --single-version-externally-managed install_data

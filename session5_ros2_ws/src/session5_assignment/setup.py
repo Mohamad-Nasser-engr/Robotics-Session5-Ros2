@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'temperature_publisher = session5_assignment.Temperature_publisher:main'
         ],
     },
 )
