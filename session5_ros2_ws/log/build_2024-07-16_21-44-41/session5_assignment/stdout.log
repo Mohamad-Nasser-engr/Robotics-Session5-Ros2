@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/session5_assignment/session5_assignment.egg-info
+writing ../../build/session5_assignment/session5_assignment.egg-info/PKG-INFO
+writing dependency_links to ../../build/session5_assignment/session5_assignment.egg-info/dependency_links.txt
+writing entry points to ../../build/session5_assignment/session5_assignment.egg-info/entry_points.txt
+writing requirements to ../../build/session5_assignment/session5_assignment.egg-info/requires.txt
+writing top-level names to ../../build/session5_assignment/session5_assignment.egg-info/top_level.txt
+writing manifest file '../../build/session5_assignment/session5_assignment.egg-info/SOURCES.txt'
+reading manifest file '../../build/session5_assignment/session5_assignment.egg-info/SOURCES.txt'
+writing manifest file '../../build/session5_assignment/session5_assignment.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib/session5_assignment
+copying session5_assignment/__init__.py -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib/session5_assignment
+running install
+running install_lib
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment
+copying /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/build/lib/session5_assignment/__init__.py -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment
+byte-compiling /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/share/ament_index
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/share/ament_index/resource_index
+creating /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/share/ament_index/resource_index/packages
+copying resource/session5_assignment -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/share/ament_index/resource_index/packages
+copying package.xml -> /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/share/session5_assignment
+running install_egg_info
+Copying ../../build/session5_assignment/session5_assignment.egg-info to /home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/install/session5_assignment/lib/python3.10/site-packages/session5_assignment-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/mohamad/Inmind/Robotics-Session5-Ros2/session5_ros2_ws/build/session5_assignment/install.log'
