@@ -7,6 +7,7 @@ git clone git@github.com:Mohamad-Nasser-engr/Robotics-Session5-Ros2.git
 # STEP 2: BUILDING THE ROS2 PACKAGE
 
 cd Robotics-Session5-Ros2/session5_ros2_ws
+#
 colcon build
 
 # STEP 3: RUN THE NODES INDIVIDUALLY
